@@ -2,8 +2,8 @@
 ## Introduction
 Hello, I'm <b>Shashank singh</b> (Reg no. - 2019UGCS018R) and this repository contain my Lab work and Assignments for the subject <b>Compiler Design</b> of the 5th semester of my B.Tech course at [Indian Institute of Information Technology (IIIT), Ranchi](https://iiitranchi.ac.in/). 
 
-<b>Submitted to</b> <b>DR. B.Mondal</b>
-(https://github.com/Dr-B-Mondal-s-class)
+<b>Submitted to</b>
+[DR. B.MONDAL]<(https://github.com/Dr-B-Mondal-s-class)
 
 
 ## Get Started!
